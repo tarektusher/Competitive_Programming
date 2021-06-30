@@ -71,7 +71,7 @@ SUM = 77+20+33+15+15+8+5+0 = 173
 
 # Code :
 
-``` 
+```cpp
 ////=====BIsmillahir Rahmanir Rahim =====////
 
 /*                        ______
