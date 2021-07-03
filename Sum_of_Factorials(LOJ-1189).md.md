@@ -1,8 +1,8 @@
-/*
-    Problem Link : https://lightoj.com/problem/sum-of-factorials
-    
-*/
 
+   # Problem Link : https://lightoj.com/problem/sum-of-factorials
+    
+
+```cpp
 ////=====BIsmillahir Rahmanir Rahim =====////
 /*                        ______
  _______   /\     |``\   |        |  /
