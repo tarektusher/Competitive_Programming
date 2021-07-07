@@ -10,7 +10,7 @@
 ```cpp
 ll dp[N];
 dp[1]=0;
-dp[2]=[1];
+dp[2]=1;
 for(ll i=3;i<N;i++){
     dp[i]=(i-1)*(dp[i-1]+dp[i-2]);
 }
