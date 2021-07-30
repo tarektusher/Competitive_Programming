@@ -72,3 +72,17 @@ int main()
     cout<<eular_toient(n)<<endl;
 }
 ```
+## Approach 03 : (Using Seive)
+
+```cpp
+ll pi[maX];
+ll eular_toient(ll n)
+{
+    for(ll i=0;i<maX;i++)pi[i]=i;
+    for(ll i=2;i<maX;i++){
+        if(pi[i]==i){
+            for(ll j=i;j<maX;j+=i)pi[j]-=pi[j]/i;
+        }
+    }
+}
+```
