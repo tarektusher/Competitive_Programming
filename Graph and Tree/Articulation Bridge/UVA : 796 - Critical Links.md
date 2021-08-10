@@ -1,8 +1,7 @@
-/*
-    Problem Link : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=737
-    
-*/
 
+# [Problem link](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=737)
+
+```cpp
 ////=====BIsmillahir Rahmanir Rahim =====////
 /*                        ______
  _______   /\     |``\   |        |  /
