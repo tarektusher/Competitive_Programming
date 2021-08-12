@@ -1,8 +1,8 @@
 # Topic : 
-1.Hashing 
-2.Palindrome
-3.KMP
-4.Z Algo
-5.Manacher Algo
-6.Suffix Array
+1.Hashing <br/>
+2.Palindrome<br/>
+3.KMP<br/>
+4.Z Algo<br/>
+5.Manacher Algo<br/>
+6.Suffix Array<br/>
 
