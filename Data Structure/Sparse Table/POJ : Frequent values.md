@@ -1,4 +1,5 @@
 # [Problem Link](https://codeforces.com/contest/475/problem/D)
+# [Idea](https://www.programmerall.com/article/32981878078/)
 # Code
 ```cpp
 /*
