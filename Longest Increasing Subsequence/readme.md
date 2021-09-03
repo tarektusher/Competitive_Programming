@@ -81,5 +81,4 @@ int lis(vector<int> const& a) {
     return ans;
 }
 ```
-### Restoring The Sequence
 
