@@ -59,7 +59,8 @@ vector<int> lis(vector<int> const& a) {
 ```
 
 # Implementation Using DP+Binary Search O(Nlog(N))<br>
-### Length of longest Increasing Subsequence
+## Length of longest Increasing Subsequence
+###  Approach 01 
 ```cpp
 int lis(vector<int> const& a) {
     int n = a.size();
@@ -81,4 +82,17 @@ int lis(vector<int> const& a) {
     return ans;
 }
 ```
-
+### Approach 02(Only for strictly increasing subsequence)
+```cpp
+int main(){FIO;
+     ll n;cin>>n;
+     vector<ll>vc;
+     for(ll i=0;i<n;i++){
+          ll x;cin>>x;
+          auto it=lower_bound(all(vc),x);
+          if(it==vc.end())vc.pb(x);
+          else vc[it-vc.begin()]=x;
+     }
+     cout<<vc.size()<<edl;
+return 0;
+}
