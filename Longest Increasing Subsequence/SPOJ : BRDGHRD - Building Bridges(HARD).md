@@ -1,5 +1,5 @@
 # [Problem list](https://www.spoj.com/problems/BRDGHRD/)
-# Idea : Binary Search
+# Idea : LCA + Binary Search
 # Complexity : O(Nlog(N))
  ```cpp
  
