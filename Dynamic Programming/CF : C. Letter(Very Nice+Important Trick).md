@@ -1,4 +1,5 @@
-#[Pproblem Link](https://codeforces.com/problemset/problem/180/C)
+# [Problem Link](https://codeforces.com/problemset/problem/180/C)
+## Code
 ```cpp
 /*
     Problem Link : 
