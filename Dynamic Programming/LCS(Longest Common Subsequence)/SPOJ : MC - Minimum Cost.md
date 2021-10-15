@@ -1,6 +1,7 @@
 # [Problem Link](https://www.spoj.com/problems/MC/)
 
 ## Code:
+```cpp
 /*
     Problem Link : 
     
