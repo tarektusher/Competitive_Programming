@@ -37,7 +37,7 @@ void linear_Seive(){
      }
 }
 ```
-##Approach 03 : Bitwise Seive
+## Approach 03 : Bitwise Seive
 ```cpp
 const long long maX=1e8+10;
 vector<ll>prime,store;
