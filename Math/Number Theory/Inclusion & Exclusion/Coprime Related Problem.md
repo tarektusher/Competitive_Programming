@@ -1,8 +1,8 @@
 ## These Problem are very interesting and important problem to learn Inclusion and Exclusion.<br>
 
 ### [Problem 01](https://cses.fi/problemset/task/2417)*[Here we find number of pairs in an array which gcd is 1]*
-### [Problem 02](https://www.codechef.com/problems/COPRIME3))*[Here we find number of triplets in an array which gcd is 1]*
-### [Problem 03](https://codeforces.com/contest/803/problem/F))*[Here we find number of subsequences in an array which gcd is 1]*
+### [Problem 02](https://www.codechef.com/problems/COPRIME3)*[Here we find number of triplets in an array which gcd is 1]*
+### [Problem 03](https://codeforces.com/contest/803/problem/F)*[Here we find number of subsequences in an array which gcd is 1]*
 
 
 ## Problem 01 Soln : 
