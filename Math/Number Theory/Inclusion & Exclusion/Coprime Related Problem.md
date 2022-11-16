@@ -1,8 +1,10 @@
-# [Problem 01](https://cses.fi/problemset/task/2417)
-# [Problem 02](https://www.codechef.com/problems/COPRIME3)
-# [Problem 03](https://codeforces.com/contest/803/problem/F)
+## These Problem are very interesting and important problem to learn Inclusion and Exclusion.<br>
 
-# It is very interesting and important problem to learn Inclusion and Exclusion.<br>*[Here we find number of pairs in an array which gcd==1]*
+### [Problem 01](https://cses.fi/problemset/task/2417)*[Here we find number of pairs in an array which gcd is 1]*
+### [Problem 02](https://www.codechef.com/problems/COPRIME3))*[Here we find number of triplets in an array which gcd is 1]*
+### [Problem 03](https://codeforces.com/contest/803/problem/F))*[Here we find number of subsequences in an array which gcd is 1]*
+
+
 ## Problem 01 Soln : 
 ```cpp
 /*
@@ -273,7 +275,7 @@ int main(){FIO;
 return 0;
 }
 ```
-#Problem 03 Soln :
+## Problem 03 Soln :
 ```cpp
 /*
     Problem Link : 
